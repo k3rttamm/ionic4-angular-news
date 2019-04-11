@@ -1,5 +1,7 @@
 # Ionic 4 Uudiste mobiilne hübriidrakendus
 
+#### Mobiilirakenduste Arendamine 3. Iseseisev Töö - Kert Tamm
+
 Seadistamine:
 
 Kasutasin terminaliks Git Bash'i
@@ -19,12 +21,23 @@ Lisaks vali terminali kasutamiseks git bash
 
 Kui projekt on seadistatud korrektselt, saab avada preview akna browseris käsuga ionic serve.
 
-Kasutatud allikad:
+### Kasutatud allikad: 
 
+#### YouTube: 
 https://youtu.be/NJ9C7iY9350
 
+#### Github demo repository: 
 https://github.com/mbaljeetsingh/ionic4-angular-news
 
-Kasutatud API:
+#### Kasutatud API:
 
 https://newsapi.org/
+
+### Arvamus juhendist:
+Juhend oli suhteliselt normaalne, kuid pidin tegema meeletult palju muudatusi, sest Ionic tegi uut rakendust luues leheküljed jms hoopis teistmoodi ja polnud vahet, kas oli installitud täpselt samad versioonid nagu juhendis näidatud või mitte. Algul proovisin ühte teist juhendit ja kulutasin ka selle peale palju aega enne kui nägin projekti lõpupoole, et juhendis olev API polegi enam tasuta saadaval.
+
+### Kirjeldus muutustest rakenduse terviklikumaks muutmiseks:
+Sai registreeritud API kasutamiseks ja muudetud API location. Lisaks muudetud natukene pisiasju, kuna väga palju aega kulus projekti tööle saamiseks.
+
+### Screenshotid:
+<img align="left" width="149" height="256" src="pic1.jpg">
