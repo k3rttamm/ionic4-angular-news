@@ -13,7 +13,7 @@ Projekti loomist ei hakka siin üksikasjalikult kirjeldama, kuna igaüks valib n
 
 Seadistamine Visual Studio Code's:
 
-Terminali akna avamiseks kasuta ctrl+`. Lisaks vali terminali kasutamiseks git bash. Terminalis rakenduse käivitamiseks sisesta käsk ionic serve.
+Terminali akna avamiseks VS Code's kasuta ctrl+`. Lisaks vali terminali avanemisel kasutamiseks git bash. Terminalis rakenduse käivitamiseks sisesta käsk ionic serve.
 
 ### Kasutatud allikad: 
 
