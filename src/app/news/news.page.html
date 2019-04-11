@@ -1,3 +1,11 @@
+
+<style>
+.img {
+    height:fit-content;
+    width: 100%;
+}
+</style>
+
 <ion-header>
   <ion-toolbar>
     <ion-title>Latest news</ion-title>
@@ -6,16 +14,19 @@
 
 <ion-content>
   <ion-card *ngFor="let article of data?.articles" (click)="onGoToNewsSinglePage(article)">
-    <!-- <ion-img [src]="article.urlToImage"></ion-img> -->
-
+      <div class="img">
+     <ion-img [src]="article.urlToImage" ></ion-img> 
+      </div>
     <ion-card-content>
       <ion-card-title>{{article.title}}</ion-card-title>
-
-      <p>{{article.description}}</p>
     </ion-card-content>
+    <!--
+      <p>{{article.description}}</p>
+    </ion-card-content>-->
   </ion-card>
 
   <ion-infinite-scroll (ionInfinite)="loadMoreNews($event)">
     <ion-infinite-scroll-content loadingSpinner="bubble" loadingText="load news.."></ion-infinite-scroll-content>
   </ion-infinite-scroll>
 </ion-content>
+
