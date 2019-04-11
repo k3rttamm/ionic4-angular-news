@@ -1,6 +1,37 @@
+<style>
+.img {
+  height:fit-content;
+  width: 100%;
+}
+.text {
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+.header{
+  color:darkslategray;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.button {
+  background-color:darkslategray;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+</style>
+
 <ion-header>
   <ion-toolbar>
+      <div class="header">
     <ion-title>{{article.title}}</ion-title>
+      </div>
   </ion-toolbar>
 </ion-header>
 
@@ -10,8 +41,11 @@
 
     <ion-card-content>
       <ion-card-title>{{article.title}}</ion-card-title>
-
-      <p>{{article.description}}</p>
+      <div class="text">
+        <p>{{article.description}}</p>
+      </div>
     </ion-card-content>
   </ion-card>
 </ion-content>
+
+<a href="#" class="button">Back</a>
