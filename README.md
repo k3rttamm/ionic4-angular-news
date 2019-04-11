@@ -37,7 +37,7 @@ https://newsapi.org/
 Juhend oli suhteliselt normaalne, kuid pidin tegema meeletult palju muudatusi, sest Ionic tegi uut rakendust luues leheküljed jms hoopis teistmoodi ja polnud vahet, kas oli installitud täpselt samad versioonid nagu juhendis näidatud või mitte. Algul proovisin ühte teist juhendit ja kulutasin ka selle peale palju aega enne kui nägin projekti lõpupoole, et juhendis olev API polegi enam tasuta saadaval.
 
 ### Kirjeldus muutustest rakenduse terviklikumaks muutmiseks:
-Sai registreeritud API kasutamiseks ja muudetud API location. Lisaks muudetud natukene pisiasju, kuna väga palju aega kulus projekti tööle saamiseks.
+Sai registreeritud API kasutamiseks ja muudetud API location. Muutsin lehtede kujundust CSS'ga ja lisasin väikeste piltide paigutamise uudiste pealehele ning lisaks ka back nupud uudiste ja about lehele. Eemaldatud sai ka mittevajalik kraam.
 
 ### Screenshotid:
 <img align="left" width="149" height="256" src="pic1.jpg">
