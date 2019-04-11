@@ -40,4 +40,6 @@ Juhend oli suhteliselt normaalne, kuid pidin tegema meeletult palju muudatusi, s
 Sai registreeritud API kasutamiseks ja muudetud API location. Muutsin lehtede kujundust CSS'ga ja lisasin väikeste piltide paigutamise uudiste pealehele ning lisaks ka back nupud uudiste ja about lehele. Eemaldatud sai ka mittevajalik kraam.
 
 ### Screenshotid:
-<img align="left" width="149" height="256" src="pic1.jpg">
+<img align="left" width="282" height="500" src="pic1.png">
+<img align="left" width="282" height="500" src="pic2.png">
+<img align="left" width="282" height="500" src="pic3.png">
