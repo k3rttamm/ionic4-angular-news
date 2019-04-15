@@ -28,7 +28,7 @@ https://github.com/mbaljeetsingh/ionic4-angular-news
 https://newsapi.org/
 
 ### Arvamus juhendist:
-Juhend oli suhteliselt normaalne, kuid pidin tegema meeletult palju muudatusi, sest Ionic tegi uut rakendust luues leheküljed jms hoopis teistmoodi ja polnud vahet, kas oli installitud täpselt samad versioonid nagu juhendis näidatud või mitte. Algul proovisin ühte teist juhendit ja kulutasin ka selle peale palju aega enne kui nägin projekti lõpupoole, et juhendis olev API polegi enam tasuta saadaval.
+Juhend oli suhteliselt arusaadav, kuid pidin tegema meeletult palju muudatusi, sest Ionic tegi uut rakendust luues leheküljed jms hoopis teistmoodi ja polnud vahet, kas oli installitud täpselt samad versioonid nagu juhendis näidatud või mitte. Algul proovisin ühte teist juhendit ja kulutasin ka selle peale palju aega enne kui nägin projekti lõpupoole, et juhendis olev API polegi enam tasuta saadaval. Peale seda kui Ionic korrektselt seadistatud sai oli kõik juba palju lihtsam.
 
 ### Kirjeldus muutustest rakenduse terviklikumaks muutmiseks:
 Sai registreeritud API kasutamiseks ja muudetud API location. Muutsin lehtede kujundust CSS'ga ja lisasin väikeste piltide paigutamise uudiste pealehele ning lisaks ka back nupud uudiste ja about lehele. Eemaldatud sai ka mittevajalik kraam.
