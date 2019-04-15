@@ -9,7 +9,7 @@ Kasutasin terminaliks Git Bash'i
 Git Bash: projecti loomiseks tuleb installeerida eelnevalt ionic, mida saab teha käsuga npm install -g ionic@latest
 (-g tähendab seda, et installeeritakse globaalselt, mitte ainult töötamaks ühes kataloogis ja @latest määrab selle, et installeeritakse kõige viimasem versioon)
 
-Projekti loomist ei hakka siin üksikasjalikult kirjeldama, kuna igaüks valib nii või teisiti omale vastavad installeerimise asukohad jms. Läbisin projekti seadistamisel väga palju erinevaid samme ja tegema mitmeid muudatusi, kuna versioonid ei klappinud näite omaga.
+Projekti loomist ei hakka siin üksikasjalikult kirjeldama, kuna igaüks valib nii või teisiti omale vastavad installeerimise asukohad jms. Läbisin projekti seadistamisel väga palju erinevaid samme ja tegema mitmeid muudatusi, kuna versioonid ei klappinud näite omaga. Sellegipoolest saab kasutada peamise näitena allpool märgitud juhendi YouTube videot ionicu seadistamiseks.
 
 Seadistamine Visual Studio Code's:
 
